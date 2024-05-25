@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="hello_world">Hallo Welt</string>
+    <string name="hello_x">Hallo %s</string>
+    <string name="welcome_text">Welcome!</string>
+</resources>
